@@ -1,0 +1,21 @@
+# Core data
+pandas>=2.0.0
+numpy>=1.24.0
+
+# ML / Categorization
+scikit-learn>=1.3.0
+
+# Forecasting
+prophet>=1.1.4
+
+# Visualization & UI
+streamlit>=1.32.0
+plotly>=5.18.0
+
+# Optional: LLM enhancement
+openai>=1.0.0
+
+# Utilities
+python-dateutil>=2.8.0
+python-dotenv>=1.0.0
+openpyxl>=3.1.0
